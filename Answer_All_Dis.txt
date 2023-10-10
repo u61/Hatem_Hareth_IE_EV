@@ -1,0 +1,42 @@
+
+(1)-What are the four tags required in every HTML page?
+
+void solv_1()
+{
+In every HTML page, there are four tags that are typically required. These tags are:
+
+1. `<!DOCTYPE html>`: This tag specifies the version of HTML being used in the document. It helps the web browser understand how to interpret and render the HTML code.
+
+2. `<html>`: This tag serves as the root element of an HTML document. It encapsulates all the content on the page.
+
+3. `<head>`: This tag is used to define the head section of the HTML document. It contains metadata about the document, such as the title of the page, character encoding, CSS stylesheets, and other important information that is not displayed directly on the page.
+
+4. `<body>`: This tag represents the body section of the HTML document. It contains all the visible content that will be displayed on the web page, including text, images, links, headings, paragraphs, and more.
+
+These four tags provide the basic structure and organization to an HTML page, ensuring that the document is well-formed and readable by web browsers.
+}
+
+
+(2)-What is HTML emojis tags and write simple program to display some emojis?
+
+void solv_2()
+{
+## HTML emoji tags allow you to display emojis directly in your web page.
+
+## To display emojis, you can use the `&#x1F600;
+
+*See [ Part_2_Emojis.html ]
+}
+
+
+
+(3)-Make a personal web. Type a few paragraphs to introduce yourself to the world and use the tags you've learned in this Experiment to make them into a web page. 
+
+void solv_3()
+{
+example of a personal web page where you can introduce yourself to the world using HTML tags.
+
+*See [Part_3_P_Web.html ]
+
+
+Thanks ....................................................................................................................
